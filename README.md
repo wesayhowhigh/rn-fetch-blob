@@ -1,3 +1,5 @@
+# Forked for Android Java Permission Fix
+
 # New Releases
 In order to publish new releases from this fork, we have renamed this project to
 `rn-fetch-blob` and published to `https://www.npmjs.com/package/rn-fetch-blob`.
